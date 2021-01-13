@@ -1,11 +1,11 @@
 #the work done here is to compare the life expectancy in more than 150 countrys with a GDP(Gross domestic product) higher than 2938, 
 #and lower than it, by showing the data in graphics. it is importante to see, that we are only dividing the data in two parts
-#we are doing that by calculating the median (the 50% quantile)
+#we are doing that by calculating the median (the second quartile)
 #in histograms i will draw some direct conclusions (the data set is in the file country_data.csv, wich you can download)
 
 #el trabajo realizado aqui es para comparar la expectativa de vida en más de 150 países con un GDP(producto bruto doméstico) más alto que
 #2938 y lo mismo para los países por debajo del mismo, mostrando los datos en gráficos. Es importante recalcar, que estamos solamente
-#dividiendo los gráficos en dos partes, y lo hacemos calculando la mediana (el Cuantil de 50%)
+#dividiendo los gráficos en dos partes, y lo hacemos calculando la mediana (el segundo cuartil)
 #en histogramas extraeré algunas conclusiones directas(el set de datos está en el archivo country_data.csv, que puede descargar)
 
 
